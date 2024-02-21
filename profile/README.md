@@ -28,7 +28,8 @@
 개발 기간 : 2023.11.17~2023.12.22
 ## 🖥 홈페이지, 시연영상
 - [홈페이지](http://fcc.puresync.site)
-- [시연영상](http://www.youtube.com)
+- [시연영상](https://youtu.be/0nmszq7WKPo)
+- [관리자페이지 시연영상](https://youtu.be/kERs8qqnPTg)
 ## 📌 주요기능
 🔸 메인 대시보드
   - 신체 및 마음 기록을 바탕으로 종합점수 제공 
